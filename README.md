@@ -15,3 +15,6 @@ This project analyzes **climate, population, and light intensity data** using GI
 ## Data sources
  - Administrative borders from https://data.humdata.org/dataset
  - Light data from https://hrea.isr.umich.edu/data.html
+
+Example
+![image](https://github.com/user-attachments/assets/fa7007c5-2c4c-4066-986e-91cf75f7354e)
